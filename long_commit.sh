@@ -69,9 +69,9 @@ setAuthor1
 setAuthor2
 
 COMMIT="Author 1: $AUTHOR1
-\nAuthor2: $AUTHOR2
-\nCard: $CARD
-\n$MESSAGE"
+Author2: $AUTHOR2
+Card: $CARD
+$MESSAGE"
 
 git commit -m"$COMMIT"
 
