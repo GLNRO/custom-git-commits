@@ -1,14 +1,14 @@
-INPUT1="author 1"
-INPUT2="author 2"
+AUTHOR1="author 1"
+AUTHOR2="author 2"
 CARD="card #"
 MESSAGE="commit message"
 
 echo "Enter first pair:"
 read input1
-INPUT1="${input1}"
+AUTHOR1="${input1}"
 echo "Enter second pair:"
 read input2
-INPUT2="${input2}"
+AUTHOR2="${input2}"
 echo "Enter card number:"
 read input3
 CARD="${input3}"
