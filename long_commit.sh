@@ -75,9 +75,7 @@ $MESSAGE"
 
 git commit -m"$COMMIT"
 
-echo -e
-"
-Git Commit:
+echo -e "Git Commit:
 Author 1: $AUTHOR1
 Author2: $AUTHOR2
 Card: $CARD
